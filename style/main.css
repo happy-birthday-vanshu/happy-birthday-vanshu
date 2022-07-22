@@ -397,10 +397,10 @@ hr {
     font-size:0px;
     background: #eec746;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 45px; }
+    font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; } }
   .tile.tile-256 .tile-inner:before {
           content:"Monday again?!🙄";
           font-size:0.8vw;}
