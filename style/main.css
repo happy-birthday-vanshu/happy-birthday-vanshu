@@ -342,7 +342,7 @@ hr {
     font-size:0px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner:before {
-      content:"Three devices💻";
+      content:"3 devices💻";
       font-size:0.9vw;
       color:#efeee9}
 
