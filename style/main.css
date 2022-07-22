@@ -403,7 +403,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner:before {
           content:"Monday again?!🙄";
-          font-size:0.9vw;}
+          font-size:0.8vw;}
 
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
